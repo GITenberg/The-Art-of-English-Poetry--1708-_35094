@@ -1,0 +1,33 @@
+_repo: The-Art-of-English-Poetry--1708-_35094
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bysshe, Edward, active 1702-1712
+    gutenberg_agent_id: '37455'
+    url: http://www.gutenberg.org/2009/agents/37455
+  editor:
+    agent_name: Culler, A. Dwight (Arthur Dwight)
+    alias: Culler, Arthur Dwight
+    birthdate: 1917
+    gutenberg_agent_id: '37456'
+    url: http://www.gutenberg.org/2009/agents/37456
+description: ''
+gutenberg_issued: '2011-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35094'
+  lccn: '54000882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Quotations, English'
+- !lcc 'PN'
+- !lcsh 'English language -- Versification -- Early works to 1800'
+title: The Art of English Poetry (1708)
+url: http://www.gutenberg.org/ebooks/35094
